@@ -1,0 +1,17 @@
+C:\Users\akzuz\Desktop\5lab\bin\Debug\net6.0-windows\5lab.exe
+C:\Users\akzuz\Desktop\5lab\bin\Debug\net6.0-windows\5lab.deps.json
+C:\Users\akzuz\Desktop\5lab\bin\Debug\net6.0-windows\5lab.runtimeconfig.json
+C:\Users\akzuz\Desktop\5lab\bin\Debug\net6.0-windows\5lab.dll
+C:\Users\akzuz\Desktop\5lab\bin\Debug\net6.0-windows\5lab.pdb
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.csproj.AssemblyReference.cache
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\_5lab.Form1.resources
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.csproj.GenerateResource.cache
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.AssemblyInfoInputs.cache
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.AssemblyInfo.cs
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.csproj.CoreCompileInputs.cache
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.dll
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\refint\5lab.dll
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.pdb
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\5lab.genruntimeconfig.cache
+C:\Users\akzuz\Desktop\5lab\obj\Debug\net6.0-windows\ref\5lab.dll
